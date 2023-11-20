@@ -1,4 +1,4 @@
-21609931534934872
+21606530800271515
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90069,51 +90069,37 @@ varistor
 2
 2
 smd_adapter
-MSOP-8
+SMD_ADAPTER_MSOP-8
 MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
 MSOP SO
 0
-8
-8
-smd_adapter
-SOIC8
-8-Lead Plastic Small Outline (SM) - 5.28 mm Body [SOIC] (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)
-SOIC 1.27
-0
-8
+16
 8
 smd_adapter
-SOIC8_MODULE
-8-Lead Plastic Small Outline (SM) - 5.28 mm Body [SOIC] (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)
+SMD_ADAPTER_SOIC-8
+SMD to DIP adapter for SOIC8 package.
 SOIC 1.27
 0
 16
-4
+8
 smd_adapter
-SOT-23-5
-SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SMD_ADAPTER_SOT-23-5
+SMD to DIP adapter for SOT-23-5 package.
 SOT TO_SOT_SMD
 0
-5
+10
 5
 smd_adapter
-SOT-23-6
-SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SMD_ADAPTER_SOT-23-6
+SMD to DIP adapter for SOT-23-6 package.
 SOT TO_SOT_SMD
 0
-6
+12
 6
 smd_adapter
-TSSOP-10
-TSSOP10: plastic thin shrink small outline package; 10 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot552-1_po.pdf)
-SSOP 0.5
+SMD_ADAPTER_TSSOP-10
+
+
 0
+24
 10
-10
-smd_adapter
-pin_pad
-Through hole angled pin header, 1x01, 2.54mm pitch, 6mm pin length, single row
-Through hole angled pin header THT 1x01 2.54mm single row
-0
-1
-1
