@@ -1,4 +1,4 @@
-# SMD Adapters
+# Custom SMD Adapters
 
 This project contains small PCBs that allow to solder SMD components on through hole project boards. They are similar to boards that can be found on Aliexpress and other sources but have the following advantages:
 
@@ -10,3 +10,35 @@ This project contains small PCBs that allow to solder SMD components on through 
 * You can pick your color of choise. We ordered black PCBs.
 
 ![](kicad/smd_adapter.png)
+
+
+# FAQ
+
+Q: Why no V-Score lines?
+
+A: It reduces the cost of ordering the PCBs.
+
+---
+
+Q: How do you cut the boards?
+
+A: With regular scisors. When ordering, prefer thinner board with such as 0.8mm over the regular 1.6mm. This will make the cutting easier.
+
+---
+
+Q: Where can I order these boards?
+
+A: From your prefered PCB manufacturer. We have good experience with JLCPCB and are able to order 5 boards for less than $4 shipped.  (Sart your order with an empty cart and select the least expensive shipping method)
+
+---
+
+A: How do I create new adapter boards?
+
+Q: Open the Kicad project and edit as necessary.
+
+---
+
+
+
+
+
