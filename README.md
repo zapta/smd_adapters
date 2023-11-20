@@ -9,9 +9,13 @@ This project contains small PCBs that allow to solder SMD components on through 
 * You can easily customize the adapters as needed, for example, adding pads for bypass capacitors. 
 * You can pick your color of choise. We ordered black PCBs.
 
-![](kicad/smd_adapter.png)
+Front view
+![Front view](kicad/smd_adapter_front.png)
 
+Rear view
+![Rear view](kicad/smd_adapter_rear.png)
 
+---
 # FAQ
 
 Q: Why no V-Score lines?
