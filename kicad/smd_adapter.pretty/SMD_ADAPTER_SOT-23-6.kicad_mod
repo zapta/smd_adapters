@@ -51,7 +51,7 @@
   (pad "5" thru_hole circle (at 3.81 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 2f1d223d-e6ec-4fdb-a2cf-0fe3a44a9e44))
   (pad "6" smd roundrect (at 1.1375 -0.95) (size 1.325 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 03f47f3f-92e0-48c0-9d6c-9fa3e96911e1))
   (pad "6" thru_hole circle (at 3.81 -2.54) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 945a3178-f677-4014-b14a-b218bac92f2d))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
