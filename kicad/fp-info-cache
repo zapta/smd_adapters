@@ -1,4 +1,4 @@
-21606530825900609
+21608232447458017
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90101,5 +90101,12 @@ SMD_ADAPTER_TSSOP-10
 
 
 0
-24
+28
 10
+smd_adapter
+SMD_ADAPTER_TSSOP-20
+
+
+0
+52
+20
