@@ -1,4 +1,4 @@
-21608232447458017
+21616770173653505
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90069,6 +90069,20 @@ varistor
 2
 2
 smd_adapter
+SMD_ADAPTER_GRID
+
+
+0
+76
+4
+smd_adapter
+SMD_ADAPTER_LED
+MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
+0
+6
+3
+smd_adapter
 SMD_ADAPTER_MSOP-8
 MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
 MSOP SO
@@ -90076,12 +90090,33 @@ MSOP SO
 20
 8
 smd_adapter
+SMD_ADAPTER_QWIIC
+
+
+0
+10
+4
+smd_adapter
+SMD_ADAPTER_R
+MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
+0
+4
+3
+smd_adapter
 SMD_ADAPTER_SOIC-8
 SMD to DIP adapter for SOIC8 package.
 SOIC 1.27
 0
 20
 8
+smd_adapter
+SMD_ADAPTER_SOT-23-3
+SMD to DIP adapter for SOT-23-6 package.
+SOT TO_SOT_SMD
+0
+10
+3
 smd_adapter
 SMD_ADAPTER_SOT-23-5
 SMD to DIP adapter for SOT-23-5 package.
