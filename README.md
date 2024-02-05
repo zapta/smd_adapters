@@ -10,7 +10,7 @@ This project contains small PCBs that allow to solder SMD components on through 
 * You can pick your color of choise. We ordered black PCBs.
 
 Front view
-![Front view](kicad/smd_adapter_front.png)
+![Front view](kicad/smd_adapter.png)
 
 Rear view
 ![Rear view](kicad/smd_adapter_rear.png)
